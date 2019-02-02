@@ -1,4 +1,4 @@
-## Your Name
+## Sureka Stoeckigt
 
 Reservoir Engineer with 5 years’ experience. Experienced in working on non-operated and operated assets to accomplish timely completion of technical subsurface and subsea projects. Combines scientific expertise and problem solving with strong people and management skills. Keen to assist Companies to support their business objectives. 
 

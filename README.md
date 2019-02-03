@@ -3,6 +3,23 @@
 ---
 Reservoir Engineer with 5 years’ experience. Experienced in working on non-operated and operated assets to accomplish timely completion of technical subsurface and subsea projects. Combines scientific expertise and problem solving with strong people and management skills. Keen to assist Companies to support their business objectives. 
 
+
+Curious and passionate about code
+Self-Taught Programming Courses & Certifications: 
+*	Programming for Everyone (Python).
+* Learn Ruby. 
+
+Fast, independent learner
+Required to independently learn the following engineering skills in order to complete tasks: 
+*	Construction of Process Flow Diagrams, Interpretation of Process and Instrumentation diagrams.
+*	Kinetic modeling of water-gas shift reaction for Hydrogen Fuel Cell Research.
+*	Plant, reactor & process design, reservoir & facilities Modeling, thermodynamic & fluid flow modeling.
+*	Interpretation of SCAL data & reports, PVT Analysis, uncertainty, risk and sensitivity analysis.
+
+Great collaborator
+Leader of group Field Development Project at Heriot-Watt University:
+*	Tactfully managed, understood and worked with different personalities of people of different cultures, interests, work ethic and academic backgrounds.
+
 ## Skills
 ---
 #### Dynamic Reservoir Simulation
@@ -23,27 +40,10 @@ Reservoir Engineer with 5 years’ experience. Experienced in working on non-ope
 #### Database Management
 *	Data management systems for all fields in business unit for ease of access and interpretation for YE Budgets and updates to forecasts: 
     *	Maintenance of SQL scripts for data storage and ease of extraction for senior colleagues.
-
+  
 ## Education
 ---
 #### Makers Academy (February 2019 to April 2019)
-
-Curious and passionate about code
-Self-Taught Programming Courses & Certifications: 
-*	Programming for Everyone (Python).
-* Learn Ruby. 
-
-Fast, independent learner
-Required to independently learn the following engineering skills in order to complete tasks: 
-*	Construction of Process Flow Diagrams, Interpretation of Process and Instrumentation diagrams.
-*	Kinetic modeling of water-gas shift reaction for Hydrogen Fuel Cell Research.
-*	Plant, reactor & process design, reservoir & facilities Modeling, thermodynamic & fluid flow modeling.
-*	Interpretation of SCAL data & reports, PVT Analysis, uncertainty, risk and sensitivity analysis.
-
-Great collaborator
-Leader of group Field Development Project at Heriot-Watt University:
-*	Tactfully managed, understood and worked with different personalities of people of different cultures, interests, work ethic and academic backgrounds.
-
 
 * OOP, TDD, MVC, DDD
 * Agile/XP

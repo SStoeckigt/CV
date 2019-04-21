@@ -14,7 +14,7 @@ Required to independently learn the following engineering skills in order to com
 *	Construction of Process Flow Diagrams, Interpretation of Process and Instrumentation diagrams.
 *	Kinetic modeling of water-gas shift reaction for Hydrogen Fuel Cell Research.
 *	Plant, reactor & process design, reservoir & facilities Modeling, thermodynamic & fluid flow modeling.
-*	Interpretation of SCAL data & reports, PVT Analysis, uncertainty, risk and sensitivity analysis.
+*	Interpretation of Special Core Analysis data & reports, Pressure, Volume & Temperature Analysis, uncertainty, risk and sensitivity analysis.
 
 Great collaborator
 Leader of group Field Development Project at Heriot-Watt University:
@@ -52,15 +52,14 @@ Leader of group Field Development Project at Heriot-Watt University:
 
 #### Heriot - Watt University, Edinburgh, UK (September 2013 to September 2014)
 
-* MSc. Petroleum Engineering
-* Distinction
+* MSc. Petroleum Engineering, Distinction
 *	Group Field Development Project for North Sea Field.
     *	Simulated reservoir model for an appraisal and development project with individuals from a wide range of experience. Aim of project was achieved by coordinating with team members and working individually to achieve a common goal.
 *	Individual Dissertation
     *	Development of techno-economic comparison and optimization of low and high frequency electrical recovery methods for heavy oil in shallow reservoirs. Aims of the project were achieved by a prediction of a hypothesis, assessment of the topic and devising strategies for additional research methodologies to test hypothesis. Awarded a Distinction Grade for this novel study.
 
 #### University of Cape Town, South Africa (January 2010 - November 2012)
-* BSc. Chemical Engineering with Honors 
+* BSc. Chemical Engineering, Honors 
 *	Group Design Project and Thesis
     *	Design of a Carbon Dioxide Sequestration Plant to abide by international laws of CO2 emissions.
     *	Prepared thesis on tracking the water crisis in South Africa to investigate methods of efficient water distribution around the Western Cape.
